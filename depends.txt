@@ -11,6 +11,8 @@ livingjungle
 marinara
 marinaramobs
 mob_biome_mapper
+mobs_ghost_redo
+mobs_skeletons
 nativevillages
 people
 stamina
